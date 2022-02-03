@@ -20,3 +20,4 @@ Para esta tarea, crea una tarea individual en GitHub Classroom que contenga lo s
   
 ## Submission
 Para enviar esta tarea, cree un problema titulado "Asignación del módulo 3.2" en este repositorio. En el problema, proporcione el enlace de invitación para aceptar la tarea que creó y luego continúe con la siguiente sección de este módulo.
+Recuerde que para completar este modulo debe de tener una conexión con Ancho de banda de por lo menos 1MB. 
