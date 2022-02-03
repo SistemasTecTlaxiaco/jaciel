@@ -1,19 +1,22 @@
-# Módulo 5: Utilización de AWS Cloud9 en el aula
+# Módulo 5: Utilización de GitHub Actions y Heroku.
 
-En esta lección, aprovecharemos la oportunidad para explorar AWS Educate y AWS Cloud9. Convertirse en miembro de AWS Educate ofrece una amplia variedad de beneficios. El único beneficio que exploraremos en esta lección es la capacidad de utilizar AWS Cloud9 IDE de forma gratuita. Cloud9 es un IDE basado en la nube, un lugar donde puede escribir, ejecutar y depurar su código con solo un navegador.
+En esta lección, aprovecharemos la oportunidad para explorar GitHub Actions y AWS Heroku. Aprender a vincular una cuenta de Heroku con GitHub, integrar un repositorio externo de GitHub con una aplicación de Heroku y crear GitHUb Action para los despliegues automáticos, te ayudara a mejorar el flujo de trabajo de tu proyecto. 
 
-En este módulo, se registrará para obtener una cuenta gratuita de AWS Educate y explorará cómo proporcionar acceso a sus estudiantes. Luego, profundizaremos en cómo usar GitHub Classroom junto con AWS Educate para exponer a sus estudiantes a la herramienta de la industria, AWS Cloud9 IDE.
+5.0 Suba su proyecto a un repositorio externo de GitHub
 
-5.1 Únase a AWS Educate
+:tv: [Suba su proyecto a un repositorio externo de GitHub](https://www.youtube.com/watch?v=WxMFZncm12s)
 
-:tv: [Cree un aula de AWS Introducción a AWS Educate](https://s3.amazonaws.com/awseducate-onboarding/Educator+Toolkit/Movies/Getting+Started+with+AWS+Educate.mp4)
+:notebook: [Crear repositorio en GitHub](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories)
 
-:notebook:[Cree una cuenta de AWS Educate](https://aws.amazon.com/education/awseducate/)
+5.1 Utilización de Heroku.
 
-5.2 Cree un aula de AWS
+:tv: [Desplegar un repositorio de GitHub en Heroku](https://www.youtube.com/watch?v=UqLTlCoAhJc)
 
-:tv: [Introducción a AWS Educate Classrooms](https://s3.amazonaws.com/awseducate-onboarding/Educator+Toolkit/Movies/AWS+Educate+Educator+Classrooms+Overview.mp4)
+5.2 GitHub Actions
 
-5.3 La perspectiva del estudiante: asignación de una asignación de AWS Cloud9
+:notebook: [Comprende las acciones](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 
-:tv: [La perspectiva del estudiante: asignación de una asignación de AWS Cloud9](https://youtu.be/bBPRD8ytWcI)
+:notebook: [Utilización de Actions para el despliegue automático del repositorio en Heroku](https://github.com/marketplace/actions/deploy-to-heroku)
+
+:notebook: [Secretos cifrados](https://docs.github.com/es/actions/security-guides/encrypted-secrets)
+
